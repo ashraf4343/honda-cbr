@@ -1,0 +1,70 @@
+.header-part{
+    background-color: #264653;
+    
+}
+.m-4{
+    margin:0 !important;
+}
+
+.purchase-button{
+    background-color: #E76F51;
+    border-radius: 5px;
+    width: 168px;
+    height: 44px;
+}
+.paragraph-font{
+    font-family: 'Poppins', sans-serif;
+    line-height: 24px;
+    
+   
+}
+#text-color{
+    color: #E0E0E0;
+
+}
+.feature-bike-title{
+color:#E76F51;;
+}
+#grey-img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
+  .client-span{
+color: #E76F51;
+
+  }
+  .card-img{
+      width:150px;
+      height: 150px;
+      text-align: center;
+      margin:auto;
+  }
+  #card-3_img{
+      border-radius: 50%;
+  }
+
+  .card-detail{
+   
+    font-size: 16px;
+    word-wrap: break-word;
+  }
+  .card-client-name{
+      color:#23A6F0;
+      font-size: 14px;
+  }
+  .card-client-profession{
+    font-size: 14px;
+  }
+  .fas{
+    color:#E76F51;
+}
+
+ .rating{
+    color:#E76F51;
+}
+  .progress-span{
+      text-align: center;
+      color:black
+  }
+  
